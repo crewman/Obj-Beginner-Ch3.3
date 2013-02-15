@@ -29,7 +29,7 @@
 		A9F5C11216CE0F0A00E1E025 /* Objc-chapter-3_3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Objc-chapter-3_3"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9F5C11616CE0F0A00E1E025 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A9F5C11916CE0F0A00E1E025 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A9F5C11C16CE0F0A00E1E025 /* Objc-chapter-3_3-Prefix.pch */ = {isa = PBXFileReference; path = "Objc-chapter-3_3-Prefix.pch"; sourceTree = "<group>"; };
+		A9F5C11C16CE0F0A00E1E025 /* Objc-chapter-3_3-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Objc-chapter-3_3-Prefix.pch"; sourceTree = "<group>"; };
 		A9F5C11D16CE0F0A00E1E025 /* Objc_chapter_3_3.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Objc_chapter_3_3.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
